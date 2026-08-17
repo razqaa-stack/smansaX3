@@ -1,216 +1,431 @@
 {
-  "metadata": {
-    "kelas": "X.3",
-    "jumlah_siswa": 35,
-    "updated": "2026-08-17T08:37:22.061Z"
-  },
-  "siswa": [
+  "kelases": [
+    "X.3"
+  ],
+  "siswas": [
     {
-      "id": 1786954549045,
+      "id": 1786961299754,
       "nama": "ADITHYA DANADYAKSA",
       "nohp": "081270378378",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549046,
+      "id": 1786961299755,
       "nama": "ADLY ZAHRAN",
       "nohp": "085272183559",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549047,
+      "id": 1786961299756,
       "nama": "AISYA",
       "nohp": "083876042418",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549048,
+      "id": 1786961299757,
       "nama": "ALFURQON SEPTA ABYUNA",
       "nohp": "081364444426",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549049,
+      "id": 1786961299758,
       "nama": "ALPHIN TRIKURNIAWAN",
       "nohp": "085271503688",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549050,
+      "id": 1786961299759,
       "nama": "AMELIA ANUGRAH",
       "nohp": "-",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549051,
+      "id": 1786961299760,
       "nama": "ANDIKA DWI PUTRA",
       "nohp": "085272711715",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549052,
+      "id": 1786961299761,
       "nama": "AZZAHRA PUTRI AYRIE",
       "nohp": "081363249407",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549053,
+      "id": 1786961299763,
       "nama": "BEAUTY JANNATUL AQSHA",
       "nohp": "082386118964",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549054,
+      "id": 1786961299764,
       "nama": "CHANAYA CANTIKA",
       "nohp": "083169280403",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549055,
+      "id": 1786961299765,
       "nama": "DIFVA ADI SOFIAN",
       "nohp": "081536546307",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549056,
+      "id": 1786961299766,
       "nama": "DILA NABILA",
       "nohp": "085264928924",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549057,
+      "id": 1786961299767,
       "nama": "ELANO AZKA ALVARO",
       "nohp": "081285909004",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549058,
+      "id": 1786961299768,
       "nama": "FATHUR ARMANSYAH",
       "nohp": "083837000660",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549059,
+      "id": 1786961299769,
       "nama": "GAFI ADITYA",
       "nohp": "085831330752",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549060,
+      "id": 1786961299770,
       "nama": "HAFIZH AR RAHMAN",
       "nohp": "082170277685",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549061,
+      "id": 1786961299771,
       "nama": "KENZO ALVARO",
       "nohp": "-",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549062,
+      "id": 1786961299772,
       "nama": "KHAIZURANO AL FAROBY",
       "nohp": "085272207535",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549063,
+      "id": 1786961299773,
       "nama": "LHATISYA AFRIDEL PUTRI",
       "nohp": "085211346568",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549064,
+      "id": 1786961299774,
       "nama": "MIRZA KHOSYI PRAWIRA",
       "nohp": "081277820132",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549065,
+      "id": 1786961299775,
       "nama": "MUHAMMAD ABBIYU RIZKY",
       "nohp": "-",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549066,
+      "id": 1786961299776,
       "nama": "MUHAMMAD GUFRON",
       "nohp": "083145634943",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549067,
+      "id": 1786961299778,
       "nama": "NABILA AZKA NAHAR",
       "nohp": "081363433057",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549068,
+      "id": 1786961299779,
       "nama": "NAJWA KHAMILATUL AHMAD",
       "nohp": "081364510276",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549069,
+      "id": 1786961299780,
       "nama": "PUTI ANDINI",
       "nohp": "082171528509",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549070,
+      "id": 1786961299781,
       "nama": "PUTRI GHANIYAH MAULANA",
       "nohp": "085274672689",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549071,
+      "id": 1786961299782,
       "nama": "RAJA HIZKIA P",
       "nohp": "082170198203",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549072,
+      "id": 1786961299783,
       "nama": "SALSABILA DWI PUTRI",
       "nohp": "085263091694",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549073,
+      "id": 1786961299784,
       "nama": "SITI ZULVA MARDHOTILLAH",
       "nohp": "085263396669",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549074,
+      "id": 1786961299785,
       "nama": "SYAZA NAPIN ANAVIA",
       "nohp": "-",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549075,
+      "id": 1786961299786,
       "nama": "TIJANI ELMI",
       "nohp": "081275962430",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549076,
+      "id": 1786961299787,
       "nama": "VIKA PUTRI INDRI",
       "nohp": "082386703513",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549077,
+      "id": 1786961299788,
       "nama": "ZAHIRA MOEHAMMAD",
       "nohp": "081275027994",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549078,
+      "id": 1786961299789,
       "nama": "ZHAURA RAMADHANI",
       "nohp": "-",
       "kelas": "X.3"
     },
     {
-      "id": 1786954549079,
+      "id": 1786961299790,
+      "nama": "ZULFADHLI",
+      "nohp": "085217731686",
+      "kelas": "X.3"
+    }
+  ],
+  "metadata": {
+    "kelas": "X.3",
+    "jumlah_siswa": 35,
+    "updated": "2026-08-17T10:08:42.772Z"
+  },
+  "siswa": [
+    {
+      "id": 1786961299754,
+      "nama": "ADITHYA DANADYAKSA",
+      "nohp": "081270378378",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299755,
+      "nama": "ADLY ZAHRAN",
+      "nohp": "085272183559",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299756,
+      "nama": "AISYA",
+      "nohp": "083876042418",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299757,
+      "nama": "ALFURQON SEPTA ABYUNA",
+      "nohp": "081364444426",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299758,
+      "nama": "ALPHIN TRIKURNIAWAN",
+      "nohp": "085271503688",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299759,
+      "nama": "AMELIA ANUGRAH",
+      "nohp": "-",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299760,
+      "nama": "ANDIKA DWI PUTRA",
+      "nohp": "085272711715",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299761,
+      "nama": "AZZAHRA PUTRI AYRIE",
+      "nohp": "081363249407",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299763,
+      "nama": "BEAUTY JANNATUL AQSHA",
+      "nohp": "082386118964",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299764,
+      "nama": "CHANAYA CANTIKA",
+      "nohp": "083169280403",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299765,
+      "nama": "DIFVA ADI SOFIAN",
+      "nohp": "081536546307",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299766,
+      "nama": "DILA NABILA",
+      "nohp": "085264928924",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299767,
+      "nama": "ELANO AZKA ALVARO",
+      "nohp": "081285909004",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299768,
+      "nama": "FATHUR ARMANSYAH",
+      "nohp": "083837000660",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299769,
+      "nama": "GAFI ADITYA",
+      "nohp": "085831330752",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299770,
+      "nama": "HAFIZH AR RAHMAN",
+      "nohp": "082170277685",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299771,
+      "nama": "KENZO ALVARO",
+      "nohp": "-",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299772,
+      "nama": "KHAIZURANO AL FAROBY",
+      "nohp": "085272207535",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299773,
+      "nama": "LHATISYA AFRIDEL PUTRI",
+      "nohp": "085211346568",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299774,
+      "nama": "MIRZA KHOSYI PRAWIRA",
+      "nohp": "081277820132",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299775,
+      "nama": "MUHAMMAD ABBIYU RIZKY",
+      "nohp": "-",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299776,
+      "nama": "MUHAMMAD GUFRON",
+      "nohp": "083145634943",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299778,
+      "nama": "NABILA AZKA NAHAR",
+      "nohp": "081363433057",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299779,
+      "nama": "NAJWA KHAMILATUL AHMAD",
+      "nohp": "081364510276",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299780,
+      "nama": "PUTI ANDINI",
+      "nohp": "082171528509",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299781,
+      "nama": "PUTRI GHANIYAH MAULANA",
+      "nohp": "085274672689",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299782,
+      "nama": "RAJA HIZKIA P",
+      "nohp": "082170198203",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299783,
+      "nama": "SALSABILA DWI PUTRI",
+      "nohp": "085263091694",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299784,
+      "nama": "SITI ZULVA MARDHOTILLAH",
+      "nohp": "085263396669",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299785,
+      "nama": "SYAZA NAPIN ANAVIA",
+      "nohp": "-",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299786,
+      "nama": "TIJANI ELMI",
+      "nohp": "081275962430",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299787,
+      "nama": "VIKA PUTRI INDRI",
+      "nohp": "082386703513",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299788,
+      "nama": "ZAHIRA MOEHAMMAD",
+      "nohp": "081275027994",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299789,
+      "nama": "ZHAURA RAMADHANI",
+      "nohp": "-",
+      "kelas": "X.3"
+    },
+    {
+      "id": 1786961299790,
       "nama": "ZULFADHLI",
       "nohp": "085217731686",
       "kelas": "X.3"
